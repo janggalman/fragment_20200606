@@ -14,5 +14,11 @@
         class="kr.tjoeun.fragment_20200606.fragments.FirstFragment"
         />
 
+    <fragment
+        android:tag="첫프래그먼트재활용"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        class="kr.tjoeun.fragment_20200606.fragments.FirstFragment" />
+
 
 </LinearLayout>
